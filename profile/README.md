@@ -22,8 +22,6 @@ Screenshots of Vysor interface:
 
 ![vysor-dashboard](https://github.com/user-attachments/assets/580e3ed9-bf65-48f1-ae4a-bfca34fdee5b)
 
-<img width="1280" height="720" alt="vysor-connection" src="https://github.com/user-attachments/assets/cd7e8a7b-8c0d-463c-aa43-4dbd529ed5d3" />
-
 ---
 
 ## 🎯 Key Features
